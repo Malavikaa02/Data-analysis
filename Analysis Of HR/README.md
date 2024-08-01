@@ -23,3 +23,23 @@ The dataset for this analysis is included within the repository itself (Analysis
 + **Power BI:** Used for data cleaning, transformation, and visualization.
 + **Git:** Version control for collaboration and tracking changes.
 + **Markdown**: Documentation and README formatting.
+
+## Visualizations
+
+The repository showcases a diverse range of visualizations created using Power BI, encompassing various chart types and representations, including but not limited to:
+
++ **Slicer Filters:** Slicer Filters: Business Units, Job Titles, Country
+    + **Key Insights:** Enables filtering data for focused analysis on specific categories.
++ **Line Charts:** Count of Employee ID over Time
+    + **Key Insights:** Shows trends in employee count over different periods.
++ **Donut Charts:** Gender Distribution by Count of Employee ID
+    + **Key Insights:** Provides insights into gender diversity within the organization.
++ **Clustered Bar Charts:** Age Distribution by Count of Employee ID
+    + **Key Insights:** Illustrates the age distribution among employees.
++ **Decomposition Tree:** Total Count of Employees by Country
+    + **Key Insights:** Breaks down the total employee count by country for detailed analysis.
++ **Tree Map:** Distribution by Business Unit
+    + **Key Insights:** Visual representation of the size of each business unit.
++ **Clustered Bar Charts:** Job Titles by Count of Employee ID
+    + **Key Insights:** Highlights the distribution of various job titles within the organization.
+
