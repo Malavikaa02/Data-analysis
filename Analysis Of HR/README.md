@@ -43,3 +43,15 @@ The repository showcases a diverse range of visualizations created using Power B
 + **Clustered Bar Charts:** Job Titles by Count of Employee ID
     + **Key Insights:** Highlights the distribution of various job titles within the organization.
 
+## Usage
+To access the dataset and view the visualizations:
+
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/your-username/employee-data-analysis.git
+2. Navigate to the /dataset directory to access the dataset files.
+3. Open the Power BI file (.pbix) using Power BI Desktop.
+4. Connect the Power BI file to the dataset within the repository.
+5. Navigate through the report to explore the visualizations and insights.
+
+   This README provides a comprehensive overview of the employee data analysis project. By following the steps above, you can gain valuable insights into the HR data and leverage the visualizations for informed decision-making.
