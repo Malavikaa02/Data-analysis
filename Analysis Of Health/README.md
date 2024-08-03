@@ -19,3 +19,13 @@ This project focuses on analyzing healthcare data to uncover patterns, trends, a
 ## Visulaizations
 The repository showcases a diverse range of visualizations created using Power BI, encompassing various chart types and representations, including but not limited to:
 
+- **Pie Charts**: Confirmed, Recovered, Deaths
+  - **Key Insights**: Provides a visual breakdown of confirmed cases, recoveries, and deaths.
+- **Clustered Bar Charts**: Deaths (x-axis) by Country/Region (y-axis)
+  - **Key Insights**: Highlights the death toll across different countries/regions.
+- **Map**: Country/Region as Location
+  - **Key Insights**: Geospatial visualization of the healthcare data, showing affected areas.
+- **Table**: Recovered by Country/Region
+  - **Key Insights**: Lists the number of recoveries by country/region.
+- **Gauge Chart**: Sum of Confirmed Cases
+  - **Key Insights**: Displays the total number of confirmed cases.
