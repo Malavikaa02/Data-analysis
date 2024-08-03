@@ -29,3 +29,6 @@ The repository showcases a diverse range of visualizations created using Power B
   - **Key Insights**: Lists the number of recoveries by country/region.
 - **Gauge Chart**: Sum of Confirmed Cases
   - **Key Insights**: Displays the total number of confirmed cases.
+
+## Usage
+To access the dataset and view the visualizations:
