@@ -1,5 +1,4 @@
 # Data Analysis Using Power BI
-This repository contains visualizations and analysis conducted on various datasets using Power BI. The project aims to provide insights and trends based on the data.
 
 ## Table of Contents
 1. [Introduction](#introduction)
