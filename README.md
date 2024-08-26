@@ -1,4 +1,5 @@
 # Data Analysis Using Power BI
+This repository contains visualizations and analysis conducted on various datasets using Power BI. The project aims to provide insights and trends based on the data.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -6,7 +7,6 @@
 3. [Tools Used](#tools-used)
 4. [Visualizations](#visualizations)
 5. [Usage](#usage)
-
 
 ## Introduction
 This project focuses on analyzing different datasets to uncover patterns, trends, and insights. Power BI is utilized for data visualization, enabling stakeholders to understand the data landscape comprehensively.
@@ -28,7 +28,6 @@ The repository includes various visualizations created using Power BI, such as:
 - **Clustered Bar Charts**: Highlight subcategory distributions.
 - **Pie Charts**: Represent distributions by regions.
 - **Tree Map**: Visualize categories and subcategories.
-
 
 ## Usage
 To access the dataset and view the visualizations:
